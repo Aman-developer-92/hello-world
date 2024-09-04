@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 
 Amend. Adding some text here.
+
+Github. Adding some line about Github.
